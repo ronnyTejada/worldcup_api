@@ -8,5 +8,5 @@ rutas de la api:
 
 http://localhost:5000/world_cup : para ver todos los mundiales
 
-http://localhost:5000/world_cup/<year>: ver cada mundial detalladamente
+http://localhost:5000/world_cup/2006: ver cada mundial detalladamente
 
